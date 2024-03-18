@@ -1,0 +1,14 @@
+C:\Users\vayne\OneDrive\Masaüstü\tobeto-ödev6-sltn\1. ve 2. sorular\bin\Debug\net8.0\1. ve 2. sorular.exe
+C:\Users\vayne\OneDrive\Masaüstü\tobeto-ödev6-sltn\1. ve 2. sorular\bin\Debug\net8.0\1. ve 2. sorular.deps.json
+C:\Users\vayne\OneDrive\Masaüstü\tobeto-ödev6-sltn\1. ve 2. sorular\bin\Debug\net8.0\1. ve 2. sorular.runtimeconfig.json
+C:\Users\vayne\OneDrive\Masaüstü\tobeto-ödev6-sltn\1. ve 2. sorular\bin\Debug\net8.0\1. ve 2. sorular.dll
+C:\Users\vayne\OneDrive\Masaüstü\tobeto-ödev6-sltn\1. ve 2. sorular\bin\Debug\net8.0\1. ve 2. sorular.pdb
+C:\Users\vayne\OneDrive\Masaüstü\tobeto-ödev6-sltn\1. ve 2. sorular\obj\Debug\net8.0\1. ve 2. sorular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vayne\OneDrive\Masaüstü\tobeto-ödev6-sltn\1. ve 2. sorular\obj\Debug\net8.0\1. ve 2. sorular.AssemblyInfoInputs.cache
+C:\Users\vayne\OneDrive\Masaüstü\tobeto-ödev6-sltn\1. ve 2. sorular\obj\Debug\net8.0\1. ve 2. sorular.AssemblyInfo.cs
+C:\Users\vayne\OneDrive\Masaüstü\tobeto-ödev6-sltn\1. ve 2. sorular\obj\Debug\net8.0\1. ve 2. sorular.csproj.CoreCompileInputs.cache
+C:\Users\vayne\OneDrive\Masaüstü\tobeto-ödev6-sltn\1. ve 2. sorular\obj\Debug\net8.0\1. ve 2. sorular.dll
+C:\Users\vayne\OneDrive\Masaüstü\tobeto-ödev6-sltn\1. ve 2. sorular\obj\Debug\net8.0\refint\1. ve 2. sorular.dll
+C:\Users\vayne\OneDrive\Masaüstü\tobeto-ödev6-sltn\1. ve 2. sorular\obj\Debug\net8.0\1. ve 2. sorular.pdb
+C:\Users\vayne\OneDrive\Masaüstü\tobeto-ödev6-sltn\1. ve 2. sorular\obj\Debug\net8.0\1. ve 2. sorular.genruntimeconfig.cache
+C:\Users\vayne\OneDrive\Masaüstü\tobeto-ödev6-sltn\1. ve 2. sorular\obj\Debug\net8.0\ref\1. ve 2. sorular.dll

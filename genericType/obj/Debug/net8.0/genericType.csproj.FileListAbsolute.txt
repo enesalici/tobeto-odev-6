@@ -1,0 +1,14 @@
+C:\Users\vayne\OneDrive\Masaüstü\tobeto-ödev6-sltn\genericType\bin\Debug\net8.0\genericType.exe
+C:\Users\vayne\OneDrive\Masaüstü\tobeto-ödev6-sltn\genericType\bin\Debug\net8.0\genericType.deps.json
+C:\Users\vayne\OneDrive\Masaüstü\tobeto-ödev6-sltn\genericType\bin\Debug\net8.0\genericType.runtimeconfig.json
+C:\Users\vayne\OneDrive\Masaüstü\tobeto-ödev6-sltn\genericType\bin\Debug\net8.0\genericType.dll
+C:\Users\vayne\OneDrive\Masaüstü\tobeto-ödev6-sltn\genericType\bin\Debug\net8.0\genericType.pdb
+C:\Users\vayne\OneDrive\Masaüstü\tobeto-ödev6-sltn\genericType\obj\Debug\net8.0\genericType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vayne\OneDrive\Masaüstü\tobeto-ödev6-sltn\genericType\obj\Debug\net8.0\genericType.AssemblyInfoInputs.cache
+C:\Users\vayne\OneDrive\Masaüstü\tobeto-ödev6-sltn\genericType\obj\Debug\net8.0\genericType.AssemblyInfo.cs
+C:\Users\vayne\OneDrive\Masaüstü\tobeto-ödev6-sltn\genericType\obj\Debug\net8.0\genericType.csproj.CoreCompileInputs.cache
+C:\Users\vayne\OneDrive\Masaüstü\tobeto-ödev6-sltn\genericType\obj\Debug\net8.0\genericType.dll
+C:\Users\vayne\OneDrive\Masaüstü\tobeto-ödev6-sltn\genericType\obj\Debug\net8.0\refint\genericType.dll
+C:\Users\vayne\OneDrive\Masaüstü\tobeto-ödev6-sltn\genericType\obj\Debug\net8.0\genericType.pdb
+C:\Users\vayne\OneDrive\Masaüstü\tobeto-ödev6-sltn\genericType\obj\Debug\net8.0\genericType.genruntimeconfig.cache
+C:\Users\vayne\OneDrive\Masaüstü\tobeto-ödev6-sltn\genericType\obj\Debug\net8.0\ref\genericType.dll
